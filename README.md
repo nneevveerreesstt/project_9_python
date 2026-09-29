@@ -40,4 +40,4 @@
    
 Основной инструмент - `Python`.
 
-<img src="images/photo3.jpg" width="90%">
+<img src="images/img.jpg" width="90%">
